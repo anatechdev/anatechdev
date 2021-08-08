@@ -1,4 +1,6 @@
-### Olá, sou Ana Maria - anatechdev. 👋
+### Olá, sou Ana Maria. 👋
+<br>
+Criadora dde conteúdo no Instagram: ana.tech.dev
 
 <!--
 **anatechdev/anatechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
