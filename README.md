@@ -1,6 +1,8 @@
-### Olá, sou Ana Maria. 👋
+## Olá, sou Ana Maria Silva. 👋
 
-Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
+Cientista da Computação e Criadora de conteúdo no Instagram @ana.tech.dev<br>
+
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 
 <!--
 **anatechdev/anatechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
