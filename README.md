@@ -1,6 +1,6 @@
-## Este é o README @ana.tech.dev. 👋
+## Este é o README @ana.tech.dev 👋
 
-Instagram da Ana Maria Silva<br>
+Instagram da Ana Maria Silva.<br>
 
 Conteúdos sobre Tecnologia e Desenvolvimento Web no Instagram.
 
