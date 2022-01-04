@@ -1,6 +1,8 @@
-## Olá, sou Ana Maria Silva. 👋
+## Este é o README @ana.tech.dev. 👋
 
-Cientista da Computação e Criadora de conteúdo no Instagram @ana.tech.dev<br>
+Instagram da Ana Maria Silva<br>
+
+Conteúdos sobre Tecnologia e Desenvolvimento Web no Instagram.
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 
