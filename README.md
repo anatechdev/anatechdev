@@ -1,6 +1,6 @@
-## Este é o README @ana.tech.dev 👋
+# Sobre @ana.tech.dev
 
-### Ana Maria | Tecnologia e Desenvolvimento Web Front-end
+## Ana Maria | Tecnologia e Desenvolvimento Web Front-end
 
 Conteúdos sobre Tecnologia e Desenvolvimento Web Front-end no Instagram @ana.tech.dev
 
